@@ -1,0 +1,3 @@
+'use strict';
+const contacts=document.getElementById('contact-links');
+contacts.innerHTML='<a class="button light" href="https://wa.me/5511961868751?text=Ol%C3%A1%2C%20Thiago!%20Gostaria%20de%20conversar%20sobre%20um%20site." target="_blank" rel="noopener noreferrer">Conversar no WhatsApp ↗</a><a class="button secondary" href="mailto:thiagofiorin8@gmail.com">Enviar e-mail ↗</a><a class="button secondary" href="https://www.linkedin.com/in/thiago-fiorin" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>';
